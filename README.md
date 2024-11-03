@@ -43,19 +43,19 @@ The model achieved an impressive overall accuracy of over **99%** on the validat
 
 #### Training and Validation Accuracy and Loss
 
-![Training and Validation Accuracy, Loss](images/graph.png)
+![Training and Validation Accuracy, Loss](graph.png)
 
 #### Confusion Matrix
 
 The confusion matrix below shows the relationship between predicted and actual labels:
 
-![Confusion Matrix](images/cm.png)
+![Confusion Matrix](cm.png)
 
 ## Sample Predictions
 
 Below are sample predictions made by the model. The green labels indicate correct predictions.
 
-![Sample Predictions](images/test.png)
+![Sample Predictions](test.png)
 
 ## Conclusion
 
